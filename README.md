@@ -1,12 +1,9 @@
-# Receipt_Invoice_Digitizer-MILESTONE-2-
-A Streamlit-based Receipt and Invoice Digitizer that processes receipt images using OCR, extracts structured data with NLP and Regex techniques, performs amount validation &amp; duplicate detection, and visualizes insights through an interactive analytics dashboard. 
-
 # 📄 Receipt and Invoice Digitizer – Milestone 2
 
 ##  Project Overview
 The Receipt and Invoice Digitizer is a document processing system designed to extract, validate, store, and analyze information from receipts and invoices.  
 This **Milestone-2 implementation** focuses on rule-based and template-driven extraction to ensure high accuracy and consistency, suitable for academic evaluation and system design demonstration.
-
+A Streamlit-based Receipt and Invoice Digitizer that processes receipt images using OCR, extracts structured data with NLP and Regex techniques, performs amount validation &amp; duplicate detection, and visualizes insights through an interactive analytics dashboard. 
 ---
 
 ##  Objectives of Milestone 2
